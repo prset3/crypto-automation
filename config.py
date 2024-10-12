@@ -66,6 +66,13 @@ RPCS = [
         'scan': 'https://ftmscan.com/tx',
         'token': 'FTM'
     },
+    {
+        'chain': 'BASE',
+        'chain_id': 8453,
+        'rpc': 'https://mainnet.base.org',
+        'scan': 'https://base.blockscout.com/tx',
+        'token': 'ETH'
+    },
 ]
 
 ORBITER_AMOUNT = {
